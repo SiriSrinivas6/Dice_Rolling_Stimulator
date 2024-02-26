@@ -20,7 +20,7 @@ Enter 'y' to roll again or any other key to exit.
 ![Face 3](https://github.com/SiriSrinivas6/Dice_Rolling_Stimulator/blob/edbfb2c02a637b80feda3f5b18f5d7f023062063/Screenshots/3.png)
 
 ## Face 4
-![Alt Text](image_url)
+![Face 4](https://github.com/SiriSrinivas6/Dice_Rolling_Stimulator/blob/527b17fbec69932ecba5178ccd0f0950c9807a48/Screenshots/4.png)
 
 ## Face 5
 ![Alt Text](image_url)
