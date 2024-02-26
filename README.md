@@ -10,3 +10,5 @@ Follow the on-screen instructions to roll the die.
 Enter 'y' to roll again or any other key to exit.
 
 # Dice Faces
+## Face 1
+https://github.com/SiriSrinivas6/Dice_Rolling_Stimulator/blob/f4af3b08f0e61e7c34ecf0381bb9b0fc30d09533/Screenshots/1.png
