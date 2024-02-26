@@ -4,7 +4,7 @@ Dice Simulator: A Python script for simulating the roll of a six-sided die, comp
 ## Dice Simulator
 This Python script is a simple and interactive dice simulator that emulates rolling a six-sided die. It provides a visual representation of the rolled dice face using ASCII art. The program utilizes the random module to generate random numbers corresponding to the faces of the die.
 
-### How to Use
+## How to Use
 Run the script using a Python interpreter.
 Follow the on-screen instructions to roll the die.
 Enter 'y' to roll again or any other key to exit.
@@ -27,6 +27,9 @@ Enter 'y' to roll again or any other key to exit.
 
 ## Face 6
 ![Face 6](https://github.com/SiriSrinivas6/Dice_Rolling_Stimulator/blob/32766d7833a4c5e95b7049511257495bd0ca79cb/Screenshots/6.png)
+
+## Author
+Siri S
 
 
 
